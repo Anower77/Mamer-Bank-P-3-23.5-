@@ -1,0 +1,14 @@
+username: root
+password: root
+
+
+
+
+
+
+1. Practice 22.5 : github link
+2. Practice 23.5 : github link
+3. Doc File or Video Link : doc/video file drive link
+4. Assignment 5 Github link: github link
+5. Assignment 5 live link: live link
+6. Admin panel username and password
